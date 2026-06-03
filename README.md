@@ -1,8 +1,10 @@
 # ⚡ Production-Ready FastAPI Boilerplate
 
-[![Python CI Pipeline](https://github.com)](https://github.com)
-![Python Version](https://shields.io)
-![License](https://shields.io)
+<p align="left">
+  <img src="https://github.com" alt="Python CI Pipeline">
+  <img src="https://shields.io" alt="Python Version">
+  <img src="https://shields.io" alt="License">
+</p>
 
 A production-grade, highly optimized project skeleton for building RESTful APIs using Python and FastAPI. This project comes pre-configured with automated CI/CD testing, code quality gates, and containerized deployment scripts.
 
